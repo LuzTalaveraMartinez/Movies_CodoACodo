@@ -16,7 +16,7 @@ PELICULAS CON SUS RESPECTIVOS DATOS TRAIDOS DESDE MySQL
 
 
 
-RESULTADOS DE BUSCQUEDA DE PELICULAS
+RESULTADOS DE BUSQUEDA DE PELICULAS
 
 
 [![Resultado-De-Busqueda.jpg](https://i.postimg.cc/15PNX3Wz/Resultado-De-Busqueda.jpg)](https://postimg.cc/0rWNHP1g)
